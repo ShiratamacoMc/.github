@@ -1,3 +1,8 @@
+## Current situation
+I am currently preparing for the postgraduate entrance exam and will not make any updates or replies before the countdown ends.
+
+![Countday](https://awesometime.vercel.app/api?type=dayssince&date=2026-12-19&tz=Asia/Shanghai&style=badge&label=12月19日)
+
 ## Hello
 Hello, welcome to the ShiratamacoMC organization.
 ## Introduction
